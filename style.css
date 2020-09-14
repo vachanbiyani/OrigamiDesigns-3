@@ -1,0 +1,31 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: #7fffd4;
+    
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.Artists{
+    display:flex;
+    background-color: #87c8eb;
+    border: lime;
+    border-style:double;
+    border-width:10px;
+    border-radius: 20px 40px;
+    padding:40px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.Designs{
+    display:flex;
+    background-color: #4682b4;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+    vertical-align:20px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
